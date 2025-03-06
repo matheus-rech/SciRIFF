@@ -8,9 +8,9 @@ setup(
     install_requires=[
         "pandas==2.2.2",
         "pyyaml==6.0.1",
-        "jinja2==3.1.4",
+        "jinja2==3.1.6",
         "black==24.4.2",
-        "nltk==3.8.1",
+        "nltk==3.9.1",
         "rouge_score==0.1.2",
         "bioc==2.1",
         "huggingface-hub==0.23.3",
